@@ -209,7 +209,7 @@ class Home extends React.Component {
                                     4.熟练使用git、photoshop、sublime、atom等前端开发工具；<br/>
                                     5. 熟练使用javaScript，jQuery，实现各种交互功能和Ajax、JSON等相关技术；<br/>
                                     6.使用jquery、ajax与php后台进行数据交互;<br/>
-                                    个人比较瞎换逻辑性的东西,所以有志于开发行业长期发展;
+                                    个人比较喜欢逻辑性的东西,所以有志于开发行业长期发展;
                                   </p>
                                 </dd>
                             </dl>
